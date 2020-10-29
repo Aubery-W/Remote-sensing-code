@@ -1,4 +1,4 @@
-# Landsat SC method to calculate LST
+# Generalize single-channel method to calculate LST from Landsat 7 SLC-off images
 - Using Python(GEOS,PyNgl) in Jupyter notebook
 - Using Javascript(Google Earth Engine)
 
